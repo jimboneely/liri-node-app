@@ -7,3 +7,11 @@ var twitterKeys = {
 	access_token_secret: 'uiuve4NzM5fzQO3AjhIh4YBurSSHYgR5Xmui8vyg29MzA'
 }
 module.exports = twitterKeys;
+
+var spotifyKeys = {
+	client_ID: '0e8dcb3d679644c08cfe932e8e96624a';
+	client_secret: '8d43b82472574dfcb710e796913aa96f';
+
+}
+
+module.exports = spotifyKeys;
